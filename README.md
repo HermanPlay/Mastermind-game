@@ -12,5 +12,5 @@ Cracking the code the game. Try different combinations to guess the code.
     
 ## Demo
 
-Insert gif or link to demo
+![](demo.gif)
 
