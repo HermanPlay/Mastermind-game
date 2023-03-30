@@ -12,5 +12,5 @@ Cracking the code the game. Try different combinations to guess the code.
     
 ## Demo
 
-![](demo.gif)
+![](https://github.com/HermanPlay/Mastermind-game/blob/main/demo.gif)
 
